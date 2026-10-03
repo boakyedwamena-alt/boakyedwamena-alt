@@ -18,7 +18,7 @@
 I'm a Distinction MSc Data Analytics graduate with a background in Biomedical Science, based in London. I work across the full analytics pipeline — data wrangling and statistical modelling in Python, SQL and R, predictive modelling with machine learning, and stakeholder-facing dashboards in Tableau and Power BI. My projects span machine learning, SQL analysis, dashboards and automated reporting workflows, with a particular interest in applying analytics to healthcare and clinical problems.
 
 - 🎓 MSc Data Analytics (Distinction), University of Portsmouth
-- 🔬 BSc (Hons) Biomedical Science, 2:1, University of Portsmouth
+- 🔬 BSc (Hons) Biomedical Science, University of Portsmouth
 - 🌱 Currently building out my project portfolio here on GitHub
 - 💬 Ask me about machine learning pipelines, SHAP interpretability, SQL analysis or Tableau dashboards
 - 📫 Reach me at **boakyedwamena@gmail.com**
