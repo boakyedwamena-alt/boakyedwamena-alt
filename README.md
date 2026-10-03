@@ -102,4 +102,4 @@ Three documented SQL queries on the public Stack Overflow dataset, looking at ho
 
 ---
 
-<p align="center"><i>eOpen to Data Analyst, BI and Data Science roles in London and remote.</i></p>
+<p align="center"><i>Open to Data Analyst, BI and Data Science roles in London and remote.</i></p>
