@@ -79,9 +79,6 @@ Three documented SQL queries on the public Stack Overflow dataset, looking at ho
 
 `SQL` `BigQuery` `Window Functions` `Data Analysis`
 
-#### More coming
-Further MSc coursework projects (customer and demand analytics with ETL and Tableau, and a KNIME text-mining and sentiment analysis pipeline) will be added as they are written up.
-
 ---
 
 ### 📊 GitHub Stats
