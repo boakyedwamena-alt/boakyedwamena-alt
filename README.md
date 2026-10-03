@@ -55,7 +55,7 @@ I'm a Distinction MSc Data Analytics graduate with a background in Biomedical Sc
 ### 🚀 Featured Projects
 
 #### 🩺 [Diabetes Risk Classification — Machine Learning Pipeline](https://github.com/boakyedwamena-alt/diabetes-risk-pipeline)
-*MSc Dissertation*
+*Machine learning project*
 An end-to-end ML pipeline on the Pima Indians Diabetes dataset, following TRIPOD reporting guidance and combining a biomedical science background with applied machine learning.
 - Built leakage-safe preprocessing (training-set-only imputation, outlier capping and scaling), five tuned base classifiers with 5-fold cross-validation and ADASYN class balancing, and a stacking ensemble
 - Stacking ensemble caught 41 of 54 diabetic patients in the held-out test set (recall 0.76) versus 38 for a plain logistic regression baseline; bootstrap confidence intervals show the gain is not statistically clear on a test set this small, and the README reports that openly
