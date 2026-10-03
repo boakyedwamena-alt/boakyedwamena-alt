@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Emmanuel Dwamena 👋</h1>
-<h3 align="center">Data Analyst | MSc Data Analytics (Distinction) | Python · SQL · Machine Learning · BI</h3>
+<h3 align="center">Data Analyst · Data Science · BI · Python · SQL · Machine Learning</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/emmanuel-dwamena">
@@ -15,7 +15,7 @@
 
 ### 👤 About Me
 
-I'm a Distinction MSc Data Analytics graduate with a background in Biomedical Science, based in London. I turn messy data into clear answers: cleaning and modelling it in Python and SQL, building machine learning models I can explain and test honestly, and presenting results in Tableau dashboards that non-technical people can use.
+I'm a recent MSc Data Analytics graduate with a Biomedical Science background, based in London. I turn messy data into clear answers: cleaning and modelling it in Python and SQL, building machine learning models I can explain and test honestly, and presenting results in Tableau dashboards that non-technical people can use.
 
 My portfolio here covers a machine learning pipeline with SHAP interpretability, a Tableau sales dashboard built on ~100,000 orders, and SQL analysis on BigQuery. My science background means I'm careful about data quality, uncertainty and what the numbers can and can't support, which matters most in healthcare and clinical analytics.
 
@@ -23,7 +23,7 @@ I'm looking for data analyst, BI, reporting or junior data scientist roles in Lo
 
 - 🎓 MSc Data Analytics (Distinction), University of Portsmouth
 - 🔬 BSc (Hons) Biomedical Science, University of Portsmouth
-- 🌱 Currently building out my project portfolio here on GitHub
+- 🌱 Actively adding new projects to this portfolio
 - 💬 Ask me about machine learning pipelines, SHAP interpretability, SQL analysis or Tableau dashboards
 - 📫 Reach me at **boakyedwamena@gmail.com**
 
