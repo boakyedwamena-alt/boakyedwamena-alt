@@ -15,7 +15,11 @@
 
 ### 👤 About Me
 
-I'm a Distinction MSc Data Analytics graduate with a background in Biomedical Science, based in London. I work across the full analytics pipeline — data wrangling and statistical modelling in Python, SQL and R, predictive modelling with machine learning, and stakeholder-facing dashboards in Tableau and Power BI. My projects span machine learning, SQL analysis, dashboards and automated reporting workflows, with a particular interest in applying analytics to healthcare and clinical problems.
+I'm a Distinction MSc Data Analytics graduate with a background in Biomedical Science, based in London. I turn messy data into clear answers: cleaning and modelling it in Python and SQL, building machine learning models I can explain and test honestly, and presenting results in Tableau dashboards that non-technical people can use.
+
+My portfolio here covers a machine learning pipeline with SHAP interpretability, a Tableau sales dashboard built on ~100,000 orders, and SQL analysis on BigQuery. My science background means I'm careful about data quality, uncertainty and what the numbers can and can't support, which matters most in healthcare and clinical analytics.
+
+I'm looking for data analyst, BI, reporting or junior data scientist roles in London or remote, and I'm open to opportunities across industries.
 
 - 🎓 MSc Data Analytics (Distinction), University of Portsmouth
 - 🔬 BSc (Hons) Biomedical Science, University of Portsmouth
@@ -98,4 +102,4 @@ Three documented SQL queries on the public Stack Overflow dataset, looking at ho
 
 ---
 
-<p align="center"><i>Open to Data Analyst / Data Scientist roles in London and remote.</i></p>
+<p align="center"><i>eOpen to Data Analyst, BI and Data Science roles in London and remote.</i></p>
