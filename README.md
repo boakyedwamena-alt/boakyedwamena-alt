@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Emmanuel Dwamena 👋</h1>
+<h1 align="center">Hi, I'm Emmanuel 👋</h1>
 <h3 align="center">Data Analyst · Data Science · BI · Python · SQL · Machine Learning</h3>
 
 <p align="center">
