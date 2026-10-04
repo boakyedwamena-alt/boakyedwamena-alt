@@ -26,6 +26,9 @@ I'm looking for data analyst, BI, reporting or junior data scientist roles in Lo
 - 🌱 Actively adding new projects to this portfolio
 - 💬 Ask me about machine learning pipelines, SHAP interpretability, SQL analysis or Tableau dashboards
 - 📫 Reach me at **boakyedwamena@gmail.com**
+-   <a href="mailto:boakyedwamena@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
 ---
 
