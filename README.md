@@ -5,8 +5,8 @@
   <a href="https://linkedin.com/in/emmanuel-dwamena">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:boakyedwamena@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://YOUR-FORM-LINK-HERE">
+    <img src="https://img.shields.io/badge/Contact%20Form-D14836?style=flat&logo=gmail&logoColor=white" alt="Contact form"/>
   </a>
   <img src="https://img.shields.io/badge/London%2C%20UK-000000?style=flat&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
@@ -15,17 +15,13 @@
 
 ### 👤 About Me
 
-I'm a recent MSc Data Analytics graduate with a Biomedical Science background, based in London. I turn messy data into clear answers: cleaning and modelling it in Python and SQL, building machine learning models I can explain and test honestly, and presenting results in Tableau dashboards that non-technical people can use.
-
-My portfolio here covers a machine learning pipeline with SHAP interpretability, a Tableau sales dashboard built on ~100,000 orders, and SQL analysis on BigQuery. My science background means I'm careful about data quality, uncertainty and what the numbers can and can't support, which matters most in healthcare and clinical analytics.
-
-I'm looking for data analyst, BI, reporting or junior data scientist roles in London or remote, and I'm open to opportunities across industries.
+(...your About Me text unchanged...)
 
 - 🎓 MSc Data Analytics (Distinction), University of Portsmouth
 - 🔬 BSc (Hons) Biomedical Science, University of Portsmouth
 - 🌱 Actively adding new projects to this portfolio
 - 💬 Ask me about machine learning pipelines, SHAP interpretability, SQL analysis or Tableau dashboards
-- 📫 Reach me at **boakyedwamena@gmail.com**
+- 📫 Best way to reach me: [LinkedIn](https://linkedin.com/in/emmanuel-dwamena) or the contact form above
 
 ---
 
