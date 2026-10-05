@@ -17,14 +17,14 @@
 
 I'm a recent MSc Data Analytics graduate with a Biomedical Science background, based in London. I turn messy data into clear answers: cleaning and modelling it in Python and SQL, building machine learning models I can explain and test honestly, and presenting results in Tableau dashboards that non-technical people can use.
 
-My portfolio here covers a machine learning pipeline with SHAP interpretability, a Tableau sales dashboard built on ~100,000 orders, and SQL analysis on BigQuery. My science background means I'm careful about data quality, uncertainty and what the numbers can and can't support, which matters most in healthcare and clinical analytics.
+My portfolio here covers a machine learning pipeline with SHAP interpretability, a Tableau sales dashboard built on ~100,000 orders, SQL analysis on BigQuery, and an end-to-end data engineering pipeline (PostgreSQL, dbt, Airflow, Docker) on 12.5 million taxi trips. My science background means I'm careful about data quality, uncertainty and what the numbers can and can't support, which matters most in healthcare and clinical analytics.
 
 I'm looking for data analyst, BI, reporting or junior data scientist roles in London or remote, and I'm open to opportunities across industries.
 
 - 🎓 MSc Data Analytics (Distinction), University of Portsmouth
 - 🔬 BSc (Hons) Biomedical Science, University of Portsmouth
 - 🌱 Actively adding new projects to this portfolio
-- 💬 Ask me about machine learning pipelines, SHAP interpretability, SQL analysis or Tableau dashboards
+- 💬 Ask me about machine learning pipelines, SHAP interpretability, SQL analysis, Tableau dashboards or data pipelines with dbt and Airflow
 - 📫 Best way to reach me: [LinkedIn](https://linkedin.com/in/emmanuel-dwamena) or the contact form above
 
 ---
@@ -61,11 +61,32 @@ I'm looking for data analyst, BI, reporting or junior data scientist roles in Lo
       <img src="https://img.shields.io/badge/KNIME-FFCC00?style=flat"/>
     </td>
   </tr>
+   <tr>
+    <td><b>Data Engineering</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+    </td>
+  </tr>
 </table>
 
 ---
 
 ### 🚀 Featured Projects
+
+#### 🚕 [NYC Taxi Data Engineering Pipeline](https://github.com/boakyedwamena-alt/nyc-taxi-data-pipeline)
+*Data engineering project · PostgreSQL, dbt, Airflow, Docker*
+An end-to-end ELT pipeline that loads 12.5 million NYC yellow taxi trips and hourly weather data into PostgreSQL, models them into a tested star schema, and serves the results in a Streamlit dashboard.
+- Built idempotent Python ingestion into a month-partitioned raw layer, dbt staging and incremental fact models with 27 data tests, and an Airflow DAG, all running in Docker with GitHub Actions CI
+- Cut a one-day query from 16.4 s to 0.24 s (69x) with a B-tree index on an 8 GB laptop, and a 1.7 s aggregation to 0.18 ms with a materialized view; benchmarks and their limits are documented in the repo
+- Flagged about 3.8% of raw rows as invalid instead of silently dropping them, and found weekday demand peaking at 6 pm and fewer trips in freezing hours, while noting that four months of data and a single weather point cannot show cause
+
+`Python` `PostgreSQL` `dbt` `Airflow` `Docker` `SQL`
+
+
+
 
 #### 🩺 [Diabetes Risk Classification — Machine Learning Pipeline](https://github.com/boakyedwamena-alt/diabetes-risk-pipeline)
 *Machine learning project*
