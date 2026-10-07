@@ -80,7 +80,7 @@ I'm looking for data analyst, BI, reporting or junior data scientist roles in Lo
 *Data engineering project · PostgreSQL, dbt, Airflow, Docker*
 An end-to-end ELT pipeline that loads 12.5 million NYC yellow taxi trips and hourly weather data into PostgreSQL, models them into a tested star schema, and serves the results in a Streamlit dashboard.
 - Built idempotent Python ingestion into a month-partitioned raw layer, dbt staging and incremental fact models with 27 data tests, and an Airflow DAG, all running in Docker with GitHub Actions CI
-- Cut a one-day query from 16.4 s to 0.24 s (69x) with a B-tree index on an 8 GB laptop, and a 1.7 s aggregation to 0.18 ms with a materialized view; benchmarks and their limits are documented in the repo
+- Cut a one-day query from about 16 s to under 0.3 s with a B-tree index (single run on an 8 GB laptop), and a 1.7 s aggregation to 0.18 ms with a materialized view; benchmarks and their limits are documented in the repo
 - Flagged about 3.8% of raw rows as invalid instead of silently dropping them, and found weekday demand peaking at 6 pm and fewer trips in freezing hours, while noting that four months of data and a single weather point cannot show cause
 
 `Python` `PostgreSQL` `dbt` `Airflow` `Docker` `SQL`
