@@ -100,8 +100,8 @@ An end-to-end ML pipeline on the Pima Indians Diabetes dataset, following TRIPOD
 #### 📊 [Olist Brazilian E-Commerce Sales Dashboard](https://github.com/boakyedwamena-alt/olist-sales-dashboard)
 *Tableau · [Live dashboard](https://public.tableau.com/views/OlistSalesPerformancceDashboard/OlistSalesPerformanceDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)*
 An interactive dashboard analysing ~100,000 orders from a Brazilian marketplace, covering sales trends, product categories, delivery performance, reviews and geography.
-- Modelled nine relational tables in Tableau using relationships to avoid row duplication, and documented every data-cleaning fix (hidden BOM character, 1M-row geolocation table reduced to one row per zip code)
-- Surfaced insights such as revenue concentrated in two categories and Southeast Brazil, and a long tail of slow deliveries as the clearest operational opportunity
+- Modelled nine relational tables in Tableau using relationships to avoid row duplication, and documented every data-cleaning fix (hidden BOM character, 1M-row geolocation table reduced to one row per zip code).
+- Found that late deliveries (6.8% of orders) averaged 2.3 stars against 4.3 for on-time orders, and that three Southeast states account for about 63% of sales; only 3.1% of customers placed a second order.
 
 `Tableau` `Excel` `Data Cleaning` `Dashboard Design`
 
