@@ -95,8 +95,6 @@ An end-to-end ML pipeline on the Pima Indians Diabetes dataset, following TRIPOD
 `Python` `scikit-learn` `XGBoost` `SHAP` `Machine Learning`
 
 #### 📊 [Olist Brazilian E-Commerce Sales Dashboard](https://github.com/boakyedwamena-alt/olist-sales-dashboard)
-*Tableau · [Live dashboard](https://public.tableau.com/views/OlistSalesPerformancceDashboard/OlistSalesPerformanceDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)*
-
 *Live dashboard:* [View on Tableau Public](https://public.tableau.com/views/OlistSalesPerformancceDashboard/OlistSalesPerformanceDashboard)
 An interactive dashboard analysing ~100,000 orders from a Brazilian marketplace, covering sales trends, product categories, delivery performance, reviews and geography.
 - Modelled nine relational tables in Tableau using relationships to avoid row duplication, and documented every data-cleaning fix (hidden BOM character, 1M-row geolocation table reduced to one row per zip code)
