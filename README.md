@@ -6,8 +6,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://tally.so/r/xXex1d">
-    <img src="https://img.shields.io/badge/Contact%20Form-D14836?style=flat&logo=gmail&logoColor=white" alt="Contact form"/>
-  </a>
+    <img src="https://img.shields.io/badge/Contact%20Form-4B5563?style=flat" alt="Contact form"/>
+  </a>  
   <img src="https://img.shields.io/badge/London%2C%20UK-000000?style=flat&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
@@ -36,7 +36,7 @@ I'm looking for data analyst, BI, reporting or junior data scientist roles in Lo
     <td><b>Languages &amp; Querying</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat"/>
       <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white"/>
       <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
     </td>
@@ -85,9 +85,6 @@ An end-to-end ELT pipeline that loads 12.5 million NYC yellow taxi trips and hou
 
 `Python` `PostgreSQL` `dbt` `Airflow` `Docker` `SQL`
 
-
-
-
 #### 🩺 [Diabetes Risk Classification — Machine Learning Pipeline](https://github.com/boakyedwamena-alt/diabetes-risk-pipeline)
 *Machine learning project*
 An end-to-end ML pipeline on the Pima Indians Diabetes dataset, following TRIPOD reporting guidance and combining a biomedical science background with applied machine learning.
@@ -100,8 +97,8 @@ An end-to-end ML pipeline on the Pima Indians Diabetes dataset, following TRIPOD
 #### 📊 [Olist Brazilian E-Commerce Sales Dashboard](https://github.com/boakyedwamena-alt/olist-sales-dashboard)
 *Tableau · [Live dashboard](https://public.tableau.com/views/OlistSalesPerformancceDashboard/OlistSalesPerformanceDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)*
 An interactive dashboard analysing ~100,000 orders from a Brazilian marketplace, covering sales trends, product categories, delivery performance, reviews and geography.
-- Modelled nine relational tables in Tableau using relationships to avoid row duplication, and documented every data-cleaning fix (hidden BOM character, 1M-row geolocation table reduced to one row per zip code).
-- Found that late deliveries (6.8% of orders) averaged 2.3 stars against 4.3 for on-time orders, and that three Southeast states account for about 63% of sales; only 3.1% of customers placed a second order.
+- Modelled nine relational tables in Tableau using relationships to avoid row duplication, and documented every data-cleaning fix (hidden BOM character, 1M-row geolocation table reduced to one row per zip code)
+- Found that late deliveries (6.8% of delivered orders) averaged 2.3 stars against 4.3 for on-time orders (association, not cause), that three Southeast states account for about 63% of sales, and that only 3.1% of customers placed a second order
 
 `Tableau` `Excel` `Data Cleaning` `Dashboard Design`
 
