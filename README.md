@@ -37,6 +37,7 @@ I'm looking for data analyst, BI, reporting or junior data scientist roles in Lo
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQL-4479A1?style=flat"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white"/>
       <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
     </td>
@@ -46,11 +47,10 @@ I'm looking for data analyst, BI, reporting or junior data scientist roles in Lo
     <td>
       <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
       <img src="https://img.shields.io/badge/SPSS-1E88E5?style=flat"/>
     </td>
-  </tr>
+  </tr>  
   <tr>
     <td><b>Machine Learning &amp; Data</b></td>
     <td>
@@ -96,6 +96,8 @@ An end-to-end ML pipeline on the Pima Indians Diabetes dataset, following TRIPOD
 
 #### 📊 [Olist Brazilian E-Commerce Sales Dashboard](https://github.com/boakyedwamena-alt/olist-sales-dashboard)
 *Tableau · [Live dashboard](https://public.tableau.com/views/OlistSalesPerformancceDashboard/OlistSalesPerformanceDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)*
+
+*Live dashboard:* [View on Tableau Public](https://public.tableau.com/views/OlistSalesPerformancceDashboard/OlistSalesPerformanceDashboard)
 An interactive dashboard analysing ~100,000 orders from a Brazilian marketplace, covering sales trends, product categories, delivery performance, reviews and geography.
 - Modelled nine relational tables in Tableau using relationships to avoid row duplication, and documented every data-cleaning fix (hidden BOM character, 1M-row geolocation table reduced to one row per zip code)
 - Found that late deliveries (6.8% of delivered orders) averaged 2.3 stars against 4.3 for on-time orders (association, not cause), that three Southeast states account for about 63% of sales, and that only 3.1% of customers placed a second order
